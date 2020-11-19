@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 171977-0005
+D Headers & Wire Housings SL Hdr Sngl Row Shrd RA Srf Mnt Pegs 5CKT
+K
+F https://componentsearchengine.com/Datasheets/2/171977-0005.pdf
+$ENDCMP
+#
+#End Doc Library

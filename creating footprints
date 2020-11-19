@@ -1,0 +1,5 @@
+F.CrtYd - front outer extreme outline of component (printed on silkscreen)
+F.Fab - min footprint of the component for pick and place and orientation
+F.Mask - front solder mask to mask so silkscreen doesnt print over it
+F.SilkS - front silk screen, to be printed on silk screen, footprint + ref component number
+F.Cu - front copper layer
